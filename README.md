@@ -1,6 +1,6 @@
 # Speech Recognition using TensorFlowJS
 
-[![Build Status](https://travis-ci.com/debsahu/SpeechRecognitionTensorFlowJS.svg?branch=master)](https://travis-ci.com/debsahu/SpeechRecognitionTensorFlowJS) [![License: MIT](https://img.shields.io/github/license/debsahu/SpeechRecognitionTensorFlowJS.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![version](https://img.shields.io/github/release/debsahu/SpeechRecognitionTensorFlowJS.svg)](https://github.com/debsahu/E131_PixelPusher/releases/tag/1.0.0) [![LastCommit](https://img.shields.io/github/last-commit/debsahu/SpeechRecognitionTensorFlowJS.svg?style=social)](https://github.com/debsahu/SpeechRecognitionTensorFlowJS/commits/master)
+[![Build Status](https://travis-ci.com/debsahu/SpeechRecognitionTensorFlowJS.svg?branch=master)](https://travis-ci.com/debsahu/SpeechRecognitionTensorFlowJS) [![License: MIT](https://img.shields.io/github/license/debsahu/SpeechRecognitionTensorFlowJS.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![version](https://img.shields.io/github/release/debsahu/SpeechRecognitionTensorFlowJS.svg)](https://github.com/debsahu/SpeechRecognitionTensorFlowJS/releases/tag/1.0.0) [![LastCommit](https://img.shields.io/github/last-commit/debsahu/SpeechRecognitionTensorFlowJS.svg?style=social)](https://github.com/debsahu/SpeechRecognitionTensorFlowJS/commits/master)
 
 ## Speech Recognition on Browser, [AsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) served on ESP8266 to control LED_BUILTIN/GPIO16
 
