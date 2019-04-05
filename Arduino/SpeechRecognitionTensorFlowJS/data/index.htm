@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="tf.min.js"></script> 
+    <script src="speech-commands.min.js"></script>
+    <!-- <script src="https://unpkg.com/@tensorflow/tfjs@0.15.3/dist/tf.min.js"></script> -->
+    <!-- <script src="https://unpkg.com/@tensorflow-models/speech-commands@0.3.0/dist/speech-commands.min.js"></script> -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <section class='title-area'>
+        <h1>LED: <strong><span id="state">%STATE%</span></strong></h1>
+        <p><a href="/on"><button class="button">ON</button></a> <a href="/off"><button class="button button2">OFF</button></a></p>
+        <p class='subtitle'>Say "UP" (ON) or "DOWN" (OFF) to control LED</p>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>
