@@ -5,7 +5,7 @@
 ## Speech Recognition on Browser, [AsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) served on ESP8266 to control LED_BUILTIN/GPIO16
 
 - Uses [WebAudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) and WebGL GPU acceleration = speech recognition is done on the browser
-- `http://` requests for microphone is blocked for chrome, use firefox instead
+- `http://` requests for microphone is blocked for chrome, **use firefox instead**
 - **tf.min.js** and **speech-commands.min.js** served from SPIFFs (1MB Program/3MB SPIFFs partition needed)
 - `/upload` and `/update` is a morden world's take on updates to ESP8266
 - Uses HTML templates to report LED_BUILTIN/GPIO16 status
@@ -13,7 +13,7 @@
 
 ### YouTube
 
-[![SpeechRecognitionTensorFlowJS](https://img.youtube.com/vi/XXXXXXXXXXXX/0.jpg)](https://www.youtube.com/watch?v=XXXXXXXXXXXX)
+[![SpeechRecognitionTensorFlowJS](https://img.youtube.com/vi/E5KpzR9Igfw/0.jpg)](https://www.youtube.com/watch?v=E5KpzR9Igfw)
 
 ### Arduino Libraries needed
 
