@@ -154,7 +154,7 @@ void setup()
         request->send(SPIFFS, "/tf.min.js", "application/javascript");
     });
     Serial.print(F("."));
-    server.on("/scipt.js", HTTP_GET, [](AsyncWebServerRequest *request) {
+    server.on("/script.js", HTTP_GET, [](AsyncWebServerRequest *request) {
         request->send(SPIFFS, "/script.js", "application/javascript");
     });
     Serial.print(F("."));
